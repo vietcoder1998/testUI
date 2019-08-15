@@ -1,0 +1,11 @@
+{
+  "name": "test-pagekage",
+  "version": "1.0.0",
+  "description": "pageKage for UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "testui test"
+  },
+  "author": "Tran Duy Viet",
+  "license": "ISC"
+}
